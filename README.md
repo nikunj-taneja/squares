@@ -33,7 +33,7 @@ $ ./squares
 ## Rules
 
 The game takes place on an 8 x 8 game board with 64 cells. Each cell can hold a disc. There are two kinds of disc and represented as below: 
-* Red – character O
+* Red – character 0
 * Blue – character #
 
 Players place their discs alternatively on the game board, one using the red disc and the other using blue.

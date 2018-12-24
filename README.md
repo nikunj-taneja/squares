@@ -32,14 +32,13 @@ $ ./squares
 
 ## Rules
 
-The game takes place on an 8 x 8 game board with 64 cells. Each cell can hold a disc. There are two kinds of disc and represented as below: 
+The game takes place on an 8 x 8 game board with 64 cells where each cell can hold a disc. There are two kinds of discs represented as below: 
 * Red – character 0
 * Blue – character #
 
-Players place their discs alternatively on the game board, one using the red disc and the other using blue.
-In general, the final goal of the game is to form as many squares (preferably large) as possible using the discs. Larger square corresponds to higher points. The points of a given square are calculated by the following formula:
+Players place their discs alternatively on the game board, one using the red disc and the other using blue with blue playing first. The goal of the game is to form as many squares (preferably large) as possible using the discs. Larger square corresponds to higher points. The points of a given square are calculated by the following formula:
 ```
-score = (#col)^2
+#points = (#col)^2
 ```
 where #col is the total number of columns (or rows) that the square covers. In each turn, a player must place (only) one disc. If the disc placed doesn't form any squares, the player gets zero points.
 

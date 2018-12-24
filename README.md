@@ -16,7 +16,7 @@ These instructions will help you build and run the game on your local machine.
 
 * Clone (or download) the repository
 ```
-$ git clone <link/>
+$ git clone https://github.com/underscoreorcus/Squares.git
 ```
 
 * Change the current directory to Squares/src and build the files using gcc

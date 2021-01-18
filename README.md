@@ -2,7 +2,7 @@
 
 A MetaSquares clone built in C.
 <br>
-It is a two player strategy board game with simple rules and deep strategy, developed as a part of my freshman year programming course. The game is adapted from the online flash version available <a href="http://www.fastswf.com/2wsAnK8">here</a>. The game was originally designed by <a href="http://www.scottkim.com/">Scott Kim</a>.
+It is a two player board game with simple rules and deep strategy, developed as a part of my freshman year programming course. The game is adapted from the online flash version available <a href="http://www.fastswf.com/2wsAnK8">here</a>. The game was originally designed by <a href="http://www.scottkim.com/">Scott Kim</a>.
 
 Squares is a CLI application with 2 game modes:
 * Human v/s Human

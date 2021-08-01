@@ -10,22 +10,19 @@ Squares is a CLI application with 2 game modes:
 
 ## Getting Started
 
-These instructions will help you build and run the game on your local machine.
+These instructions will help you build and run the game on your local machine. You will need to clone the repository using git (or download and extract the zip file), build the source files using gcc and finally, run the game.
 
-* Clone the repository using git (or download the zip file)
 ```
 $ git clone https://github.com/nikunj-taneja/squares.git && cd squares
-```
-
-* Build the source files using gcc
-```
 $ gcc -Wall main.c game.c helpers.c -o squares
-```
-
-* Run the game
-```
 $ ./squares
 ```
+
+## Screenshots
+
+![image](docs/1.png)
+![image](docs/2.png)
+![image](docs/3.png)
 
 ## Rules
 
@@ -42,9 +39,3 @@ where `n` is the total number of columns (and equivalently, rows) that the squar
 The game ends in the follwing situations:
 * The game board is full, in which case the player with the higher score wins (it's a draw if the scores are equal).
 * one of the player gets over 150 points with at least 15 points higher than their opponent.
-
-## Screenshots
-
-![image](docs/1.png)
-![image](docs/2.png)
-![image](docs/3.png)

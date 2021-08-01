@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/32366458/127778692-033103ca-b3a9-4f6a-a49d-b81191def4b4.png" width=320><br><br>A MetaSquares clone built in C.</p><br>
+<p align="center"><img src="https://user-images.githubusercontent.com/32366458/127778692-033103ca-b3a9-4f6a-a49d-b81191def4b4.png" width=260><br>A MetaSquares clone built in C.</p><br>
 
 This is a two player board game with simple rules and deep strategy, developed as a part of my freshman year programming course. The game is adapted from the online flash version available <a href="http://www.fastswf.com/2wsAnK8">here</a>. The game was originally designed by <a href="http://www.scottkim.com/">Scott Kim</a>.
 
